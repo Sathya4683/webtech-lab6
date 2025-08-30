@@ -1,4 +1,4 @@
-```markdown
+
 # Countdown Timer App
 
 A simple countdown timer web application built with React + Vite.  
@@ -6,7 +6,7 @@ Users can set a custom time (minutes & seconds), start, pause, and reset the tim
 
 ---
 
-## UI Preview
+## UI Preview (figma)
 
 ![UI Mockup](assets/figma.png)
 
@@ -100,6 +100,3 @@ Upload the generated `dist/` folder to hosting provider.
 - CSS (custom)
 - React Hooks (`useState`, `useEffect`)
 
-```
-
-```
